@@ -1,10 +1,10 @@
 {
-  "author": "JRS",
-  "name": "shippedBasketPost",
-  "description": "A cloudq worker that needs to spawn the nightly posting of shipped baskets",
-  "version": "0.0.0",
+  "author": "Kevin Stewart",
+  "name": "rakeTaskTrigger",
+  "description": "A node process that triggers a rake task to be run",
+  "version": "0.0.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/kdstew/rakeTaskTrigger"
   },
   "engines": {
     "node": "0.6 || 0.7 || 0.8"
