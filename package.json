@@ -1,0 +1,18 @@
+{
+  "author": "JRS",
+  "name": "shippedBasketPost",
+  "description": "A cloudq worker that needs to spawn the nightly posting of shipped baskets",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "0.6 || 0.7 || 0.8"
+  },
+  "dependencies": {
+    "request": "*"
+  },
+  "devDependencies": {
+    "coffee-script":"*"
+  }
+}
